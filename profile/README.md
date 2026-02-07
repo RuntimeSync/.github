@@ -50,7 +50,7 @@ Only organization members can contribute to repositories.
 [![GitHub](https://img.shields.io/badge/GitHub-SujalPatil21-blue)](https://github.com/SujalPatil21)  
 [![GitHub](https://img.shields.io/badge/GitHub-shreyaawari28-blue)](https://github.com/shreyaawari28)  
 [![GitHub](https://img.shields.io/badge/GitHub-Tejas--H01-blue)](https://github.com/Tejas-H01)  
-[![GitHub](https://img.shields.io/badge/GitHub-nihal27998-blue)](https://github.com/nihal27998)
+[![GitHub](https://img.shields.io/badge/GitHub-nihal27998-blue)](https://github.com/NihalMishra3009)
 
 
 ---
