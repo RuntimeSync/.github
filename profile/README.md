@@ -17,7 +17,7 @@ Runtime Sync is an engineering-focused organization creating practical tools and
 
 ## 📦 Projects
 
-### Code Publisher
+### GitGo
 One-click VS Code extension to publish coding solutions to GitHub with automatic folder structure, README generation, optional screenshots, and git push.
 
 **Tech Stack**
